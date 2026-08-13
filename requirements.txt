@@ -1,0 +1,4 @@
+# Core (CLI + local transcription + YouTube)
+faster-whisper>=1.0.0
+yt-dlp>=2024.5.27
+youtube-transcript-api>=0.6.2
