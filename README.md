@@ -1,5 +1,28 @@
-![youtube](https://www.youtube.com/@realworlddevs)
-<img width="1917" height="838" alt="image" src="https://github.com/user-attachments/assets/c68afef4-791d-4b73-a524-5e17c0e14973" />
+## 📺 Watch It in Action
+
+> See this app being built and used step-by-step on **Real World Devs**!
+
+<div align="center">
+
+### ▶️ Complete Build Video
+
+[![Build Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+*Click to watch the full video of building this app from scratch.*
+
+### 🎬 Real World Devs — YouTube Channel
+
+[![YouTube](https://img.shields.io/badge/Subscribe-RealWorldDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@realworlddevs)
+
+</div>
+
+### 📊 Live Output Example
+
+Here's what the app produces — a clean, timestamped transcript ready to download:
+
+<img width="1917" height="838" alt="App output example" src="https://github.com/user-attachments/assets/c68afef4-791d-4b73-a524-5e17c0e14973" />
+
+---
 
 
 # 🎬 Video Transcript Extractor
@@ -264,6 +287,8 @@ python app.py video.mp4 --offline
 ```
 
 ---
+
+
 
 <div align="center">
 
