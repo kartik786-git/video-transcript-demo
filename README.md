@@ -1,3 +1,7 @@
+![real world devs] (https://www.youtube.com/@realworlddevs)
+<img width="1917" height="838" alt="image" src="https://github.com/user-attachments/assets/c68afef4-791d-4b73-a524-5e17c0e14973" />
+
+
 # 🎬 Video Transcript Extractor
 
 > Extract timestamped transcripts from local video files or YouTube URLs using **Whisper AI** — no API keys, no accounts, fully offline-capable.
